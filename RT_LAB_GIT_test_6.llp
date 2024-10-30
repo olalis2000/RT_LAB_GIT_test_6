@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+    <General>
+        <att_name>RT_LAB_GIT_test_6</att_name>
+        <att_description></att_description>
+        <att_ip_address>10.168.10.106:25253</att_ip_address>
+        <att_hashcode>FB131499-9AD8-48DA-8747-D966EED397C6</att_hashcode>
+        <att_autosave>ON</att_autosave>
+        <att_project_locked>0</att_project_locked>
+        <att_filename>C:\Users\ORTG\Documents\Files\RT_LAB_GIT_test_6\RT_LAB_GIT_test_6.llp</att_filename>
+    </General>
+    <Optionals>
+        <att_donotask_loadcfg_at_prjopen>0</att_donotask_loadcfg_at_prjopen>
+        <att_matlab_compile_outprocess>OFF</att_matlab_compile_outprocess>
+        <att_donotremind_labviewdeprecated>FALSE</att_donotremind_labviewdeprecated>
+    </Optionals>
+    <Models>
+        <Model>
+            <Path>
+                <Relative>models/Boost_and_Two_Level_Inverter_Sfun/Boost_and_Two_Level_Inverter_IO.slx</Relative>
+                <Absolute>C:/Users/ORTG/Documents/Files/RT_LAB_GIT_test_6/models/Boost_and_Two_Level_Inverter_Sfun/Boost_and_Two_Level_Inverter_IO.slx</Absolute>
+                <UNC>C:/Users/ORTG/Documents/Files/RT_LAB_GIT_test_6/models/Boost_and_Two_Level_Inverter_Sfun/Boost_and_Two_Level_Inverter_IO.slx</UNC>
+            </Path>
+        </Model>
+    </Models>
+</Project>
